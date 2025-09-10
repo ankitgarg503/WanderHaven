@@ -1,5 +1,5 @@
 
-<!--
+
 
 <h1>WanderHaven</h1>
 <h3>Full Stack WebApp</h3>
@@ -71,4 +71,3 @@
 <!--   Website Link: https://wanderhaven.onrender.com/listings 
 
 </p>
--->
